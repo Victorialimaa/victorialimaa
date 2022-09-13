@@ -1,8 +1,8 @@
 ### Oi! eu sou a Victória Lima 👋
 
-- 🔭 Desenvolvedora Web fron-end Junior
+- 🔭 Desenvolvedora Web front-end Junior
 - 🌱 Estudante apaixonada por HTML e CSS
-- 😄 Pronouns: ela/dela 
+- 😄 Pronome: ela/dela 
 - ⚡ Fun fact: Apreciadora de art
 
 <div align="center">
